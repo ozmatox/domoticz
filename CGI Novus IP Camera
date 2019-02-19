@@ -1,0 +1,7 @@
+CGI Novus:
+
+7000_series
+http://192.168.1.200:80/cgi-bin/jpg/image.cgi?
+
+3000_series
+http://192.168.1.200:80/GetSnapshot@root:pass
